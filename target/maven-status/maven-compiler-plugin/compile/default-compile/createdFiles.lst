@@ -1,0 +1,4 @@
+com\mybatisplus\config\MpConfig.class
+com\mybatisplus\mapper\UserMapper.class
+com\mybatisplus\pojo\User.class
+com\mybatisplus\MybatisPlusApplication.class
